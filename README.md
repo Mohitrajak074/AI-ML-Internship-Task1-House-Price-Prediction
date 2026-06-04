@@ -42,7 +42,7 @@ The California Housing Dataset is provided by Scikit-Learn and contains housing-
 
 > Insert Screenshot Here
 
-![Dataset Preview](screenshots/dataset_preview.png)
+<img width="940" height="289" alt="Screenshot 2026-06-04 145521" src="https://github.com/user-attachments/assets/d18149e4-d92b-4aee-b7ae-4bf611d1bf9b" />
 
 ---
 
@@ -54,7 +54,8 @@ Shows the relationship between all features and the target variable.
 
 > Insert Heatmap Screenshot Here
 
-![Correlation Heatmap](screenshots/heatmap.png)
+<img width="1026" height="736" alt="Screenshot 2026-06-04 143442" src="https://github.com/user-attachments/assets/7a34b16d-5e58-4ddf-87e7-4b6fe12cb1fa" />
+
 
 ---
 
@@ -66,7 +67,8 @@ Shows how house prices are distributed throughout the dataset.
 
 > Insert Distribution Graph Here
 
-![Distribution Plot](screenshots/distribution.png)
+<img width="617" height="434" alt="Screenshot 2026-06-04 143458" src="https://github.com/user-attachments/assets/d9868a51-2db7-4ebf-aa25-0ee246247c1d" />
+
 
 ---
 
@@ -81,37 +83,20 @@ Compares model predictions against actual house prices.
 <img width="746" height="571" alt="Screenshot 2026-06-04 143531" src="https://github.com/user-attachments/assets/7dbb4719-9a8b-4e25-a5f2-051b694e6e65" />
 
 
----
+
 
 ## Model Performance
 
-| Metric   | Value      |
-| -------- | ---------- |
-| MAE      | Add Result |
-| RMSE     | Add Result |
-| R² Score | Add Result |
+| Metric   | Value               |
+| -------- | ---------------     |
+| MAE      | 0.533200130495656   |
+| RMSE     | 0.7455813830127764  |
+| R² Score | 0.5757877060324508  |
 
----
 
 ## PDF Report
 
 📄 Complete project report is available in:
-
-```text
-report.pdf
-```
-
-The report contains:
-
-* Introduction
-* Dataset Description
-* EDA Analysis
-* Visualizations
-* Model Development
-* Evaluation Metrics
-* Results
-* Conclusion
-* Future Improvements
 
 
 ### Features
@@ -176,55 +161,7 @@ The model performance was evaluated using:
 * Root Mean Squared Error (RMSE)
 * R² Score
 
-### Results
 
-| Metric   | Value           |
-| -------- | --------------- |
-| MAE      | Add Your Result |
-| RMSE     | Add Your Result |
-| R² Score | Add Your Result |
-
----
-
-## 💾 Saved Model
-
-The trained model is saved as:
-
-```text
-house_price_model.pkl
-```
-
-This allows predictions on new housing data without retraining the model.
-
----
-
-## 🚀 Run the Project
-
-### Clone Repository
-
-```bash
-git clone https://github.com/your-username/House-Price-Prediction-Linear-Regression.git
-```
-
-### Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### Open Notebook
-
-```bash
-jupyter notebook
-```
-
-### Run Prediction Script
-
-```bash
-python predict.py
-```
-
----
 
 ## 📂 Project Structure
 
