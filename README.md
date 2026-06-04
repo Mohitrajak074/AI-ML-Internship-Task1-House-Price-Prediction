@@ -78,8 +78,8 @@ Compares model predictions against actual house prices.
 
 > Insert Prediction Graph Here
 
-![Prediction Plot](<img width="746" height="571" alt="Screenshot 2026-06-04 143531" src="https://github.com/user-attachments/assets/635fb2f3-50c0-442b-8763-bbf4126f9866" />
-)
+<img width="746" height="571" alt="Screenshot 2026-06-04 143531" src="https://github.com/user-attachments/assets/7dbb4719-9a8b-4e25-a5f2-051b694e6e65" />
+
 
 ---
 
