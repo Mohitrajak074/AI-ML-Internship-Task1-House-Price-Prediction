@@ -35,6 +35,85 @@ The objective of this project is to build and evaluate a Linear Regression model
 
 The California Housing Dataset is provided by Scikit-Learn and contains housing-related information collected from California districts.
 
+
+# 📸 Project Screenshots
+
+## Dataset Preview
+
+> Insert Screenshot Here
+
+![Dataset Preview](screenshots/dataset_preview.png)
+
+---
+
+## Correlation Heatmap
+
+### Purpose
+
+Shows the relationship between all features and the target variable.
+
+> Insert Heatmap Screenshot Here
+
+![Correlation Heatmap](screenshots/heatmap.png)
+
+---
+
+## House Price Distribution
+
+### Purpose
+
+Shows how house prices are distributed throughout the dataset.
+
+> Insert Distribution Graph Here
+
+![Distribution Plot](screenshots/distribution.png)
+
+---
+
+## Actual vs Predicted House Prices
+
+### Purpose
+
+Compares model predictions against actual house prices.
+
+> Insert Prediction Graph Here
+
+![Prediction Plot](<img width="746" height="571" alt="Screenshot 2026-06-04 143531" src="https://github.com/user-attachments/assets/635fb2f3-50c0-442b-8763-bbf4126f9866" />
+)
+
+---
+
+## Model Performance
+
+| Metric   | Value      |
+| -------- | ---------- |
+| MAE      | Add Result |
+| RMSE     | Add Result |
+| R² Score | Add Result |
+
+---
+
+## PDF Report
+
+📄 Complete project report is available in:
+
+```text
+report.pdf
+```
+
+The report contains:
+
+* Introduction
+* Dataset Description
+* EDA Analysis
+* Visualizations
+* Model Development
+* Evaluation Metrics
+* Results
+* Conclusion
+* Future Improvements
+
+
 ### Features
 
 | Feature    | Description          |
