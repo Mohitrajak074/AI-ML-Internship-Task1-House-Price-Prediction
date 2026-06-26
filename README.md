@@ -196,7 +196,7 @@ House-Price-Prediction-Linear-Regression/
 
 ## 👨‍💻 Author
 
-**Mohit Rajak**
+**Mohit Rajak*
 
 B.Tech Computer Science & Engineering
 
