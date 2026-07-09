@@ -91,7 +91,7 @@ Compares model predictions against actual house prices.
 | -------- | ---------------     |
 | MAE      | 0.533200130495656   |
 | RMSE     | 0.7455813830127764  |
-| R² Score | 0.5757877060324508  |
+| R² Score | 0.5757877060324507  |
 
 
 ## PDF Report
